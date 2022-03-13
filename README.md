@@ -35,6 +35,7 @@ For all my various datasets, I have these steps to do.  I will start with the Mu
 1. I would like to automate recommendations on posts I should read from weblogs, [Hacker News](https://news.ycombinator.com),
 [Lobsters](https://lobsters.ai)
   * I have years of saved websites from my personal caching site, pigeon
+  * I have a bunch of favorites at Hacker News
 
 ### Gmail (Email stuff)
 1. I would like to prioritize my inbox and find messages I missed over the years
